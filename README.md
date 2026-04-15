@@ -1,2 +1,0 @@
-# CurriculumVitae
-Curriculum académico-científico
